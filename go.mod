@@ -1,3 +1,3 @@
-module github.com/klauspost/asmfmt
+module github.com/hughdavenport/asmfmt
 
 go 1.16

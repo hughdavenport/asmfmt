@@ -16,7 +16,7 @@ import (
 	"runtime/pprof"
 	"strings"
 
-	"github.com/klauspost/asmfmt"
+	"github.com/hughdavenport/asmfmt"
 )
 
 var (
